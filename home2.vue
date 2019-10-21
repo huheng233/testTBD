@@ -5,6 +5,7 @@
     <p>home2/4</p>
     <p>home2/5</p>
     <p>write this in h2 branch</p>
+    <p>测试暂存区</p>
 </template>
 
 <script>
