@@ -9,6 +9,7 @@
     <p>1.h1推远程h1</p>
     <p>Testing compare with the repository</p>
     <p>Testing compare with the Stage area</p>
+    <p>Testing compare with the working tree</p>
 </template>
 
 <script>
