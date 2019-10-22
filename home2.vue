@@ -8,6 +8,7 @@
     <p>上次远程提交的这行有问题，这次才是对的</p>
     <p>1.h1推远程h1</p>
     <p>Testing compare with the repository</p>
+    <p>Testing compare with the Stage area</p>
 </template>
 
 <script>
