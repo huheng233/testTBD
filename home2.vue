@@ -10,7 +10,7 @@
     <p>Testing compare with the repository</p>
     <p>Testing compare with the Stage area</p>
     <p>Testing compare with the working tree</p>
-    <p>asdas</p>
+    <p>asdassss</p>s
 </template>
 
 <script>
