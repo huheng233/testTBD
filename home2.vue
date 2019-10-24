@@ -10,7 +10,8 @@
     <p>Testing compare with the repository</p>
     <p>Testing compare with the Stage area</p>
     <p>Testing compare with the working tree</p>
-    <p>asdassss</p>s
+    <p>asdassss</p>
+    <p>在本地master改个东西，推到远程rh2</p>
 </template>
 
 <script>
