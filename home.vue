@@ -6,7 +6,6 @@
     <p>测试暂存区</p>ssssss
     <p>home/2</p>
     <p>111</p>
-    <p>222</p>
     <p>333</p>
 </template>
 
