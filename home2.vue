@@ -13,6 +13,7 @@
     <p>asdassss</p>
     <p>在本地master改个东西，推到远程rh2</p>
     <p>在指定tag发布后的提交</p>
+    <p>在本地master修复个bug并push</p>
 </template>
 
 <script>
