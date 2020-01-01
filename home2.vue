@@ -12,6 +12,7 @@
     <p>Testing compare with the working tree</p>
     <p>asdassss</p>
     <p>在本地master改个东西，推到远程rh2</p>
+    <p>在指定tag发布后的提交</p>
 </template>
 
 <script>
